@@ -22,6 +22,5 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 # Project Files
 
 * Run_Analysis.R - Script that contains the code to convert the raw data in a tidy data for further analysis;
-* Raw_Data.zip - Raw data used in the project
 * Codebook.md - Description of the variables and process to convert the raw data in tidy data
 * Tidydataset.txt - Independent tidy data set with the average of each variable for each activity and each subject. The variables were mean and standard deviation for each measurement from the raw data.
