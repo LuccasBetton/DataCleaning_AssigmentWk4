@@ -1,6 +1,8 @@
 # DataCleaning_AssigmentWk4
-Getting and Data Cleaning Course - Week 4 Assigment 
+Getting and Data Cleaning Course - Week 4 Assigment
+
 Author: Luccas Betton
+
 Date: 28/03/2020
 
 # Project Description
